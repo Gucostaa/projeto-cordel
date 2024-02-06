@@ -97,3 +97,16 @@ footer{
     color: white;
     background-color: black;
 }
+
+button {
+    border: none;
+    padding: 30px 30px;
+    margin: 15px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.buttonclick {
+    background-color: white;
+    text-align: end;
+}
