@@ -98,15 +98,22 @@ footer{
     background-color: black;
 }
 
-button {
+button{
     border: none;
-    padding: 30px 30px;
-    margin: 15px;
+    padding: 10px 12px;
+    margin: 25px;
     border-radius: 50%;
-    background-color: black;
+
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
 }
 
-.buttonclick {
-    background-color: white;
-    text-align: end;
+button:hover {
+    background-color: gainsboro;
+    box-shadow: 1px 1px 50px #c7c3c3;
 }
+
+
+
