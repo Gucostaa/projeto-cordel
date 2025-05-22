@@ -1,62 +1,44 @@
-# 📊 Projeto SaaS - Análise de Clientes e Previsão de Churn
+# 🎭 Projeto Cordel - Interpretação Digital de "Cordel Moderno"
 
-## 🧠 Visão Geral
+## 📖 Visão Geral
 
-Este projeto tem como objetivo o desenvolvimento de uma aplicação SaaS voltada para pequenas empresas ou profissionais autônomos. A plataforma permitirá o cadastro de clientes, atendimentos e feedbacks, além da geração de relatórios visuais e previsão de churn (abandono de clientes) com técnicas de Machine Learning.
+O Projeto Cordel é uma iniciativa educacional e artística que transforma o poema "Cordel Moderno" de Milton Duarte em uma experiência interativa na web. Utilizando HTML, CSS e JavaScript, o projeto oferece uma forma criativa e acessível para estudantes explorarem a literatura de cordel, promovendo a leitura, a interpretação de texto e a reflexão crítica sobre a tecnologia e a sociedade.
 
 ## 🚀 Funcionalidades
 
-- Cadastro de clientes, atendimentos e feedbacks via interface web
-- Previsão de churn com script Python e algoritmos de ML
-- Visualização de métricas como NPS, churn e satisfação média com Power BI
-- Interface desktop offline (CRUD local em C#)
-- Modo demo com dados simulados
+- 📜 Apresentação interativa do poema "Cordel Moderno"
+- 🎨 Estilo visual inspirado em folhetos de cordel tradicionais
+- 🧠 Atividades de interpretação de texto integradas (ex: quizzes ou perguntas reflexivas)
+- 🔤 Leitura acessível com responsividade para dispositivos móveis
 
 ## 🧱 Stack Tecnológica
 
-| Camada              | Tecnologias |
+| Camadas             | Tecnologias |
 |---------------------|-------------|
-| Frontend            | HTML5, CSS3, Bootstrap |
-| Backend             | PHP, PostgreSQL |
-| Análise/ML          | Python (pandas, scikit-learn) |
-| Visualização        | Power BI |
-| Interface Desktop   | C# (Windows Forms) |
+| Frontend            | HTML5, CSS3, JavaScript |
 | Versionamento       | Git + GitHub |
-| Deploy (opcional)   | XAMPP, EC2 Free Tier, Replit |
 
 ## 📂 Estrutura do Projeto
 ```
-Projeto-SaaS/
-├── backend/        # Código PHP (API, login, rotas)
-├── desktop/        # Código C# (interface offline)
-├── docs/           # Documentação e diagramas
-├── datasets/       # Dados de teste e arquivos CSV
-├── frontend/       # HTML, CSS, JS, Bootstrap
-├── powerbi/        # Dashboards e arquivos PBIX
-├── python/         # Scripts de análise e ML
-├── sql/            # Scripts SQL para criação e povoamento do BD
-├── .gitignore
-└── README.md
+projeto-cordel/
+├── index.html         # Página principal com o poema
+├── style/             # Arquivos CSS
+├── scripts/           # JavaScript para interações
+├── assets/            # Imagens e recursos visuais
+├── README.md          # Documentação do projeto
+└── .gitignore
 ```
-
 
 ## 👥 Equipe
 
 | Nome    | Função |
 |---------|--------|
-| **[Dherek](https://github.com/DherekSG)** | Líder técnico geral, integração de módulos |
-| **[Tego](https://github.com/TiagoRochaDSantos)**   | Backend em PHP e integração com Python |
-| **[Hey](https://github.com/Gucostaa)**    | Backend em PHP e integração a Banco de dados |
-| **[Gaby](https://github.com/TheNamelessAngel)**   | Interface desktop em C#, testes |
-| **[Livai](https://github.com/Livai1)**  | Backend em C#, Qualidade visual e testes |
-| **[Pony](https://github.com/juanmh10)**   | Banco de dados, Power BI e documentação |
+| **[Gustavo Costa](https://github.com/Gucostaa)** | Desenvolvedor web |
 
 ## ⚙️ Como Executar
 
 ### Requisitos
-- PHP + XAMPP ou Replit
-- PostgreSQL
-- Python 3.x
-- Power BI Desktop
-- Visual Studio (para o app CS#)
-.
+- Navegador moderno (Chrome, Firefox, etc.)
+- Editor de código (VS Code, Sublime, etc.)
+- Conta no GitHub para publicar via GitHub Pages
+
