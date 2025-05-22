@@ -22,7 +22,7 @@ O Projeto Cordel é uma iniciativa educacional e artística que transforma o poe
 ```
 projeto-cordel/
 ├── index.html         # Página principal com o poema
-├── style/             # Arquivos CSS
+├── styles/             # Arquivos CSS
 ├── scripts/           # JavaScript para interações
 ├── assets/            # Imagens e recursos visuais
 ├── README.md          # Documentação do projeto
