@@ -26,6 +26,8 @@ projeto-cordel/
 ├── scripts/           # JavaScript para interações
 ├── assets/            # Imagens e recursos visuais
 ├── README.md          # Documentação do projeto
+├── .LICENSE
+├── .cordel-moderno.txt
 └── .gitignore
 ```
 
