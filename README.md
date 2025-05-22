@@ -24,10 +24,13 @@ projeto-cordel/
 ├── index.html         # Página principal com o poema
 ├── style/             # Arquivos CSS
 │   └── style.css
+│
 ├── scripts/           # JavaScript para interações
 │   └── script.js
+│
 ├── assets/            # Imagens e recursos visuais
 │   └── images.js
+│
 ├── README.md          # Documentação do projeto
 └── .gitignore
 ```
